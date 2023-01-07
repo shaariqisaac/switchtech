@@ -1,0 +1,13 @@
+.net-cable {
+    background-image: url(./images/network-cables.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hp-products {
+    background-image: url(./images/hp-products.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

@@ -1,0 +1,11 @@
+.shadow-qoute {
+    box-shadow: 1px 4px 20px #c5c5c5;
+}
+
+.Grid-Qoute {
+    display: grid;
+    grid-template-columns: 70% 1fr;
+}
+::placeholder{
+    font-size: 14px;
+}
